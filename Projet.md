@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css">
+    <title>Projet GIT</title>
+    </head>
+    <body>
+    <h1>
+    Les parties du projet
+    </h1>
+    <p>Voici les différentes parties de notre projet
+    <ul
+   <li>
+   Première partie : Créer le code HTML
+   </li>
+   <li>
+   Deuxième partie : Rajouter le code CSS
+   </li>
+   <li>
+   Troisième partie : Mettre des scripts en JAVA
+   </li>>
+    </ul>
+   </p>
+    
+    </body>
+</html>

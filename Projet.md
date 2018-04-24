@@ -10,7 +10,7 @@
     Les parties du projet
     </h1>
     <p>Voici les différentes parties de notre projet
-    <ul
+    <ul>
    <li>
    Première partie : Créer le code HTML
    </li>
